@@ -1,5 +1,3 @@
-#CIS 9660 Project(Logistic regression)
-
 install.packages("stargazer")
 library(stargazer)
 
